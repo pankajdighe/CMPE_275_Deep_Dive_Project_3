@@ -1,0 +1,7 @@
+com\tweet\scanner\testingTweets.class
+com\tweet\scanner\WorkerThread.class
+com\tweet\scanner\DBConnector.class
+com\tweet\scanner\TweetScannerApp.class
+com\tweet\scanner\TweetScheduler.class
+com\tweet\data\TweetData.class
+com\tweet\scanner\RestController.class
